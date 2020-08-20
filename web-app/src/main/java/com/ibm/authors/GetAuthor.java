@@ -54,7 +54,7 @@ public class GetAuthor {
 			@QueryParam("name") String name) {
 		
 			Author author = new Author();
-			author.name = "Lijing Z";
+			author.name = "Lijing Z - 8/20";
 			author.twitter = "https://twitter.com/nheidloff";
 			author.blog = "http://heidloff.net";
 
